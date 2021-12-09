@@ -1,1 +1,1 @@
-![Image of Japan](https://github.com/Trangnguyenulis/markdown-portfolio/blob/main/Jp.png)
+![Image of Tulip ](https://github.com/Trangnguyenulis/markdown-portfolio/blob/main/Tulip.jpeg)
