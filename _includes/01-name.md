@@ -1,6 +1,1 @@
-# Nguyễn Thị Thu Trang
-## FX13861
-### 12
-#### 123
-##### 1234
-###### 12345
+# Nguyen Thi Thu Trang 
