@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. Shopping
+2. Working
+3. Travel
+   1. Viet Nam
+   2. Japan
